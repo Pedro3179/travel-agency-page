@@ -3,7 +3,7 @@
 This is the web page of a travel agency where you can visit Brazil. *Brazil is my home country*,
 and this is a *meme* page. Please take lightly.
 
-👉 [Link to the project](https://pedro3179.github.io/travelagency-page/)
+👉 [Link to the project](https://pedro3179.github.io/travel-agency-page/)
 
 This file is part of a lesson and one of the steps to acquire the Responsive Web certification.
 The lab project is called Build a Travel Agency Page.
